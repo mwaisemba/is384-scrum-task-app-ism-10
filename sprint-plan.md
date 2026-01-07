@@ -16,4 +16,4 @@ Tests pass with ≥80% coverage.
 Feature integrated and demo-ready.
 Documentation updated in repository.
 commited
-sprint plan
+sprint plan.
