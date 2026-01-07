@@ -29,3 +29,4 @@ Sprint Retrospective: Post-review, 3:30 PM (45 minutes). Reflect on sprint and i
 Product Backlog: Prioritized list of user stories and tasks for the app, refined by Product Owner.
 Sprint Backlog: Actionable tasks from the product backlog for this sprint, updated by the team.
 Increment: Deliverable prototype at sprint end, meeting the Definition of Done (e.g., basic task management features).
+time
