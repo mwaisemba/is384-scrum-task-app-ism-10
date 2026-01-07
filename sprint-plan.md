@@ -10,9 +10,10 @@ Notifications: As a user, I want alerts for assignments and deadlines to stay up
 2. Sprint Goal
 This sprint will implement core task creation and assignment functionality in a cloud prototype, enabling basic end-to-end workflows while demonstrating team Git collaboration.
 3. Definition of Done (DoD)
-
+all are reviwed
 Code committed to feature branch and peer-reviewed.
 Tests pass with ≥80% coverage.
 Feature integrated and demo-ready.
 Documentation updated in repository.
 commited
+sprint plan.
