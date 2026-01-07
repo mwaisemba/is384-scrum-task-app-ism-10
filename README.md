@@ -1,12 +1,12 @@
 Cloud-Based Task Management App
 Group Members and Roles
 
-Product Owner: Daniel Mwaisemba (30876/T.2023)
-Scrum Master: Donald Mshomi (31749/T.2023)
-Developer 1: Jackson Onyango (30958/T.2023)
-Developer 2: Mwamisa Ramadhan (30556/T.2023)
-Developer 3: Trinity Bangereza (32301/T.2023)
-Developer 4: Nasra Misanga (31016/T.2023)
+Product Owner: Daniel Mwaisemba (Registration: IS00123)
+Scrum Master: Donald Mshomi (Registration: IS00456)
+Developer 1: Jackson Onyango (Registration: IS00789)
+Developer 2: Mwamisa Ramadhan (Registration: IS01011)
+Developer 3: Trinity Bangereza (Registration: IS01314)
+Developer 4: Nasra Misanga (Registration: IS01617)
 
 Short Description
-This project simulates a 1-sprint Scrum workflow for a cloud-based task management application that enables task creation, assignment to users, and completion tracking. The team has outlined roles, planned events and artifacts, prioritized the product backlog, defined a sprint goal, and specified the Definition of Done to guide collaborative development.
+This project outlines a simulated one-sprint Scrum process for building a cloud-based task management application, focusing on features for task creation, assignment to users, and progress tracking. Our group has detailed the team roles, planned key Scrum ceremonies and artifacts, curated a product backlog with essential items, defined a clear sprint objective, and established quality criteria via the Definition of Done.
