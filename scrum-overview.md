@@ -14,7 +14,7 @@ Nasra Misanga        31016/T.2023            Developer 4
 
 Product Owner (Daniel Mwaisemba): Defines and prioritizes the product backlog to maximize value delivery.
 Donald Mshomi the scrum master he facilitates Scrum processes , coaches the team and removes blockers  
-Developers (Jackson Onyango, Mwamisa Ramadhan, Trinity Bangereza, Nasra Misanga): Collaborate on coding, testing, and delivering the app increment.
+Developers (Jackson Onyango, Mwamisa Ramadhan, Trinity Bangereza, Nasra Misanga): Collaborate on coding, testing, and delivering the app increment.Jackson
 
 2. Scrum Events
 For the simulated 1-sprint (2 weeks, e.g., starting early January 2025), events are planned as:
